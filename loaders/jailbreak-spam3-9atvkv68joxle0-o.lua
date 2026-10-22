@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/jailbreak-spam3-9atvkv68joxle0.lua"))()
