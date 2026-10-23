@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/1-day-crazy-skeleton-rng-spam6-9dxghynxky5fj3.lua"))()
