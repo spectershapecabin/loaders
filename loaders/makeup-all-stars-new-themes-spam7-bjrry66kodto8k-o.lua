@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/makeup-all-stars-new-themes-spam7-bjrry66kodto8k.lua"))()
