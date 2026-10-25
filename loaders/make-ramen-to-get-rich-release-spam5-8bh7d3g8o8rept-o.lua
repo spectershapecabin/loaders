@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/make-ramen-to-get-rich-release-spam5-8bh7d3g8o8rept.lua"))()
